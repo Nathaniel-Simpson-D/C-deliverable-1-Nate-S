@@ -1,0 +1,7 @@
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\bin\Debug\labe1Deliverable_1.exe.config
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\bin\Debug\labe1Deliverable_1.exe
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\bin\Debug\labe1Deliverable_1.pdb
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\obj\Debug\labe1Deliverable_1.csprojAssemblyReference.cache
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\obj\Debug\labe1Deliverable_1.csproj.CoreCompileInputs.cache
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\obj\Debug\labe1Deliverable_1.exe
+C:\Users\Nate Simpson\source\repos\Unit1Lab\labe1Deliverable_1\obj\Debug\labe1Deliverable_1.pdb
